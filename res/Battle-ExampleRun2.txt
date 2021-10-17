@@ -1,0 +1,366 @@
+ExampleRun2
+================================================
+
+Welcome to V's Battle Arena
+
+================================================
+
+Creating Player - P1
+
+Creating Player - P2
+
+================================================
+Player 1's Base Stats:
+
+Name: P1
+
+Stats: 
+strength: 12
+constitution: 12
+dexterity: 12
+charisma: 16
+health: 52
+
+Weapon: 
+Name: BareHand
+minDamage: 0
+maxDamage: 0
+
+Equipment: 
+
+================================================
+Player 2's Base Stats:
+
+Name: P2
+
+Stats: 
+strength: 13
+constitution: 11
+dexterity: 14
+charisma: 8
+health: 46
+
+Weapon: 
+Name: BareHand
+minDamage: 0
+maxDamage: 0
+
+Equipment: 
+
+================================================
+
+****Adding Players to Arena****
+
+Equipped Players, The following Armory and Gear are assigned:
+
+--------Attacking Player--------
+
+Name: P1
+
+Stats: 
+strength: 17
+constitution: 12
+dexterity: 11
+charisma: 27
+health: 67
+
+Weapon: 
+Name: BroadSword
+minDamage: 6
+maxDamage: 10
+
+Equipment: 
+Name: HG1, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P12, effectOnStrength: 1, effectOnConstitution: -2, effectOnDexterity: 1, effectOnCharisma: 3
+Name: P12, effectOnStrength: 1, effectOnConstitution: -2, effectOnDexterity: 1, effectOnCharisma: 3
+Name: P14, effectOnStrength: 3, effectOnConstitution: -1, effectOnDexterity: 1, effectOnCharisma: 2
+Name: P2, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 3, effectOnCharisma: 0
+Name: P4, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: -3, effectOnCharisma: 1
+Name: B10, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B12, Size: LARGE, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B8, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 2, effectOnDexterity: 0, effectOnCharisma: 2
+Name: B9, Size: MEDIUM, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: 0
+Name: B9, Size: MEDIUM, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: 0
+Name: FW4, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: -2, effectOnCharisma: 0
+
+--------Opponent Player--------
+
+Name: P2
+
+Stats: 
+strength: 19
+constitution: 11
+dexterity: 21
+charisma: 8
+health: 59
+
+Weapon: 
+Name: Flail
+minDamage: 8
+maxDamage: 12
+
+Equipment: 
+Name: HG5, effectOnStrength: 0, effectOnConstitution: 3, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P10, effectOnStrength: 0, effectOnConstitution: -3, effectOnDexterity: 1, effectOnCharisma: 0
+Name: P11, effectOnStrength: 0, effectOnConstitution: -3, effectOnDexterity: 1, effectOnCharisma: 0
+Name: P11, effectOnStrength: 0, effectOnConstitution: -3, effectOnDexterity: 1, effectOnCharisma: 0
+Name: P14, effectOnStrength: 3, effectOnConstitution: -1, effectOnDexterity: 1, effectOnCharisma: 2
+Name: P2, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 3, effectOnCharisma: 0
+Name: P5, effectOnStrength: -2, effectOnConstitution: 3, effectOnDexterity: 1, effectOnCharisma: -1
+Name: P6, effectOnStrength: -1, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P8, effectOnStrength: 4, effectOnConstitution: 2, effectOnDexterity: 0, effectOnCharisma: 0
+Name: B1, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B11, Size: SMALL, effectOnStrength: -1, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: -2
+Name: B4, Size: SMALL, effectOnStrength: 1, effectOnConstitution: 0, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B6, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B7, Size: LARGE, effectOnStrength: 2, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: 1
+Name: FW3, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 2, effectOnCharisma: 0
+
+
+****Starting Battle****
+
+
+Turn Summary:
+
+Turn: 1
+Attacking Player: P1, Strike Power: 18
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 2
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 14
+Potential Damage: 27, Actual Damage: 15
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 3
+Attacking Player: P1, Strike Power: 22
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 4
+Attacking Player: P2, Strike Power: 28
+Opponent: P1, Avoidance Ability: 14
+Potential Damage: 30, Actual Damage: 18
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 5
+Attacking Player: P1, Strike Power: 23
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 6
+Attacking Player: P2, Strike Power: 27
+Opponent: P1, Avoidance Ability: 15
+Potential Damage: 29, Actual Damage: 17
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 7
+Attacking Player: P1, Strike Power: 23
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 8
+Attacking Player: P2, Strike Power: 23
+Opponent: P1, Avoidance Ability: 16
+Potential Damage: 30, Actual Damage: 18
+
+Winner is: P2
+------------------------------------------------
+
+
+Do you want to continue, Enter y if yes:
+y
+
+================================================
+Player 1's Base Stats:
+
+Name: P1
+
+Stats: 
+strength: 12
+constitution: 12
+dexterity: 12
+charisma: 16
+health: 52
+
+Weapon: 
+Name: BareHand
+minDamage: 0
+maxDamage: 0
+
+Equipment: 
+
+================================================
+Player 2's Base Stats:
+
+Name: P2
+
+Stats: 
+strength: 13
+constitution: 11
+dexterity: 14
+charisma: 8
+health: 46
+
+Weapon: 
+Name: BareHand
+minDamage: 0
+maxDamage: 0
+
+Equipment: 
+
+================================================
+
+****Adding Players to Arena****
+
+Equipped Players, The following Armory and Gear are assigned:
+
+--------Attacking Player--------
+
+Name: P1
+
+Stats: 
+strength: 17
+constitution: 7
+dexterity: 13
+charisma: 16
+health: 53
+
+Weapon: 
+Name: TwoHandSword
+minDamage: 8
+maxDamage: 12
+
+Equipment: 
+Name: HG2, effectOnStrength: 0, effectOnConstitution: -1, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P10, effectOnStrength: 0, effectOnConstitution: -3, effectOnDexterity: 1, effectOnCharisma: 0
+Name: P13, effectOnStrength: 2, effectOnConstitution: -3, effectOnDexterity: -1, effectOnCharisma: 0
+Name: P14, effectOnStrength: 3, effectOnConstitution: -1, effectOnDexterity: 1, effectOnCharisma: 2
+Name: P2, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 3, effectOnCharisma: 0
+Name: P4, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: -3, effectOnCharisma: 1
+Name: P6, effectOnStrength: -1, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P9, effectOnStrength: 0, effectOnConstitution: -1, effectOnDexterity: 0, effectOnCharisma: -2
+Name: P9, effectOnStrength: 0, effectOnConstitution: -1, effectOnDexterity: 0, effectOnCharisma: -2
+Name: B1, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B15, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 3, effectOnDexterity: 0, effectOnCharisma: 0
+Name: B3, Size: LARGE, effectOnStrength: 1, effectOnConstitution: 0, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B5, Size: MEDIUM, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: 0, effectOnCharisma: 1
+Name: B9, Size: MEDIUM, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: 0
+Name: FW3, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 2, effectOnCharisma: 0
+
+--------Opponent Player--------
+
+Name: P2
+
+Stats: 
+strength: 12
+constitution: 12
+dexterity: 13
+charisma: 13
+health: 50
+
+Weapon: 
+Name: Katana
+minDamage: 4
+maxDamage: 6
+
+Equipment: 
+Name: HG4, effectOnStrength: 0, effectOnConstitution: -2, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P1, effectOnStrength: -1, effectOnConstitution: 2, effectOnDexterity: -1, effectOnCharisma: 3
+Name: P1, effectOnStrength: -1, effectOnConstitution: 2, effectOnDexterity: -1, effectOnCharisma: 3
+Name: P10, effectOnStrength: 0, effectOnConstitution: -3, effectOnDexterity: 1, effectOnCharisma: 0
+Name: P12, effectOnStrength: 1, effectOnConstitution: -2, effectOnDexterity: 1, effectOnCharisma: 3
+Name: P4, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: -3, effectOnCharisma: 1
+Name: P5, effectOnStrength: -2, effectOnConstitution: 3, effectOnDexterity: 1, effectOnCharisma: -1
+Name: P6, effectOnStrength: -1, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P9, effectOnStrength: 0, effectOnConstitution: -1, effectOnDexterity: 0, effectOnCharisma: -2
+Name: B11, Size: SMALL, effectOnStrength: -1, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: -2
+Name: B12, Size: LARGE, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B13, Size: LARGE, effectOnStrength: 3, effectOnConstitution: 1, effectOnDexterity: 0, effectOnCharisma: 0
+Name: B4, Size: SMALL, effectOnStrength: 1, effectOnConstitution: 0, effectOnDexterity: -1, effectOnCharisma: 0
+Name: FW5, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 3, effectOnCharisma: 0
+
+
+****Starting Battle****
+
+
+Turn Summary:
+
+Turn: 1
+Attacking Player: P1, Strike Power: 24
+Opponent: P2, Avoidance Ability: 17
+Potential Damage: 28, Actual Damage: 16
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 2
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 15
+Potential Damage: 22, Actual Damage: 15
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 3
+Attacking Player: P1, Strike Power: 26
+Opponent: P2, Avoidance Ability: 18
+Potential Damage: 28, Actual Damage: 16
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 4
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 18
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 5
+Attacking Player: P1, Strike Power: 22
+Opponent: P2, Avoidance Ability: 16
+Potential Damage: 28, Actual Damage: 16
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 6
+Attacking Player: P2, Strike Power: 17
+Opponent: P1, Avoidance Ability: 16
+Potential Damage: 21, Actual Damage: 14
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 7
+Attacking Player: P1, Strike Power: 23
+Opponent: P2, Avoidance Ability: 15
+Potential Damage: 28, Actual Damage: 16
+
+Winner is: P1
+------------------------------------------------
+
+
+Do you want to continue, Enter y if yes:
+N

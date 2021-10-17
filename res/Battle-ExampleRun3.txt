@@ -1,0 +1,1722 @@
+ExampleRun3
+================================================
+
+Welcome to V's Battle Arena
+
+================================================
+
+Creating Player - P1
+
+Creating Player - P2
+================================================
+Player 1's Base Stats:
+
+Name: P1
+
+Stats: 
+strength: 12
+constitution: 12
+dexterity: 12
+charisma: 16
+health: 52
+
+Weapon: 
+Name: BareHand
+minDamage: 0
+maxDamage: 0
+
+Equipment: 
+
+================================================
+Player 2's Base Stats:
+
+Name: P2
+
+Stats: 
+strength: 13
+constitution: 11
+dexterity: 14
+charisma: 8
+health: 46
+
+Weapon: 
+Name: BareHand
+minDamage: 0
+maxDamage: 0
+
+Equipment: 
+
+================================================
+
+****Adding Players to Arena****
+
+Equipped Players, The following Armory and Gear are assigned:
+
+--------Attacking Player--------
+
+Name: P1
+
+Stats: 
+strength: 0
+constitution: 13
+dexterity: 21
+charisma: 29
+health: 63
+
+Weapon: 
+Name: BroadSword
+minDamage: 6
+maxDamage: 10
+
+Equipment: 
+Name: HG1, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P1, effectOnStrength: -1, effectOnConstitution: 2, effectOnDexterity: -1, effectOnCharisma: 3
+Name: P10, effectOnStrength: 0, effectOnConstitution: -3, effectOnDexterity: 1, effectOnCharisma: 0
+Name: P15, effectOnStrength: -6, effectOnConstitution: -2, effectOnDexterity: 3, effectOnCharisma: 0
+Name: P15, effectOnStrength: -6, effectOnConstitution: -2, effectOnDexterity: 3, effectOnCharisma: 0
+Name: P2, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 3, effectOnCharisma: 0
+Name: B10, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B14, Size: MEDIUM, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: 0, effectOnCharisma: 4
+Name: B14, Size: MEDIUM, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: 0, effectOnCharisma: 4
+Name: B3, Size: LARGE, effectOnStrength: 1, effectOnConstitution: 0, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B8, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 2, effectOnDexterity: 0, effectOnCharisma: 2
+Name: FW3, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 2, effectOnCharisma: 0
+
+--------Opponent Player--------
+
+Name: P2
+
+Stats: 
+strength: 12
+constitution: 10
+dexterity: 20
+charisma: 9
+health: 51
+
+Weapon: 
+Name: Katana
+minDamage: 4
+maxDamage: 6
+
+Equipment: 
+Name: HG4, effectOnStrength: 0, effectOnConstitution: -2, effectOnDexterity: 0, effectOnCharisma: 0
+Name: P11, effectOnStrength: 0, effectOnConstitution: -3, effectOnDexterity: 1, effectOnCharisma: 0
+Name: P12, effectOnStrength: 1, effectOnConstitution: -2, effectOnDexterity: 1, effectOnCharisma: 3
+Name: P5, effectOnStrength: -2, effectOnConstitution: 3, effectOnDexterity: 1, effectOnCharisma: -1
+Name: P7, effectOnStrength: 1, effectOnConstitution: -2, effectOnDexterity: 2, effectOnCharisma: 2
+Name: B10, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B11, Size: SMALL, effectOnStrength: -1, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: -2
+Name: B11, Size: SMALL, effectOnStrength: -1, effectOnConstitution: 0, effectOnDexterity: 0, effectOnCharisma: -2
+Name: B15, Size: SMALL, effectOnStrength: 0, effectOnConstitution: 3, effectOnDexterity: 0, effectOnCharisma: 0
+Name: B3, Size: LARGE, effectOnStrength: 1, effectOnConstitution: 0, effectOnDexterity: -1, effectOnCharisma: 0
+Name: B5, Size: MEDIUM, effectOnStrength: 0, effectOnConstitution: 1, effectOnDexterity: 0, effectOnCharisma: 1
+Name: FW5, effectOnStrength: 0, effectOnConstitution: 0, effectOnDexterity: 3, effectOnCharisma: 0
+
+
+****Starting Battle****
+
+
+Turn Summary:
+
+Turn: 1
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 2
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 3
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 4
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 5
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 6
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 7
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 8
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 9
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 10
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 11
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 12
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 13
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 14
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 15
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 16
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 17
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 18
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 19
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 20
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 21
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 22
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 23
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 24
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 25
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 26
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 27
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 28
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 29
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 30
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 31
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 32
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 33
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 34
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 35
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 36
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 37
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 38
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 39
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 40
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 41
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 42
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 43
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 44
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 45
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 46
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 47
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 48
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 49
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 50
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 51
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 52
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 53
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 54
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 55
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 56
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 57
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 58
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 59
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 60
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 61
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 62
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 63
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 64
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 65
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 66
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 67
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 68
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 69
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 70
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 71
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 72
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 73
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 74
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 75
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 76
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 77
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 78
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 79
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 80
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 81
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 82
+Attacking Player: P2, Strike Power: 17
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 83
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 84
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 85
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 86
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 87
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 88
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 89
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 90
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 91
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 92
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 93
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 94
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 95
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 96
+Attacking Player: P2, Strike Power: 17
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 97
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 98
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 99
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 100
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 101
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 102
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 103
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 104
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 105
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 106
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 107
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 108
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 109
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 110
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 111
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 112
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 113
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 114
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 115
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 116
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 117
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 118
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 119
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 120
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 121
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 122
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 123
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 124
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 125
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 126
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 127
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 128
+Attacking Player: P2, Strike Power: 17
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 129
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 130
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 131
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 132
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 133
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 134
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 135
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 136
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 137
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 138
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 139
+Attacking Player: P1, Strike Power: 6
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 140
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 141
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 142
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 143
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 144
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 145
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 146
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 147
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 148
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 149
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 150
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 151
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 152
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 153
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 154
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 155
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 156
+Attacking Player: P2, Strike Power: 15
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 157
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 158
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 159
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 160
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 161
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 162
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 163
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 164
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 165
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 166
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 167
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 168
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 169
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 170
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 171
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 172
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 173
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 174
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 175
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 176
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 177
+Attacking Player: P1, Strike Power: 3
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 178
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 179
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 180
+Attacking Player: P2, Strike Power: 17
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 181
+Attacking Player: P1, Strike Power: 2
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 182
+Attacking Player: P2, Strike Power: 21
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 183
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 184
+Attacking Player: P2, Strike Power: 13
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 185
+Attacking Player: P1, Strike Power: 1
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 186
+Attacking Player: P2, Strike Power: 14
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 187
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 21
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 188
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 189
+Attacking Player: P1, Strike Power: 5
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 190
+Attacking Player: P2, Strike Power: 19
+Opponent: P1, Avoidance Ability: 24
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 191
+Attacking Player: P1, Strike Power: 4
+Opponent: P2, Avoidance Ability: 26
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 192
+Attacking Player: P2, Strike Power: 16
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 193
+Attacking Player: P1, Strike Power: 8
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 194
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 22
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 195
+Attacking Player: P1, Strike Power: 10
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 196
+Attacking Player: P2, Strike Power: 18
+Opponent: P1, Avoidance Ability: 27
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 197
+Attacking Player: P1, Strike Power: 9
+Opponent: P2, Avoidance Ability: 25
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 198
+Attacking Player: P2, Strike Power: 22
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 199
+Attacking Player: P1, Strike Power: 7
+Opponent: P2, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+Turn Summary:
+
+Turn: 200
+Attacking Player: P2, Strike Power: 20
+Opponent: P1, Avoidance Ability: 23
+Potential Damage: 0, Actual Damage: 0
+------------------------------------------------
+
+No progress in 200 moves, terminating battle!!!
+
+Do you want to continue, Enter y if yes:
+N
